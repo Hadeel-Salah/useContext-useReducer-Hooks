@@ -51,3 +51,7 @@ button.secondary {
   background-color: transparent;
   border: 2px solid;
 }
+
+.useReducer_section{
+  justify-content: center;
+}
